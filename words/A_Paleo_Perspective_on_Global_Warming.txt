@@ -1,0 +1,14 @@
+magnitude n.大小，数量
+thermal a.热量的
+methane n.甲烷，沼气
+troposphere n.对流层
+smog n.烟雾
+ultraviolet a.紫外的
+amplify v.放大，增强
+pinpoint vt. 查明；精确地找到；准确描述
+purport vt. 声称；意指；意图；打算
+hypothesize v. 假设,假定,猜测
+threshold n. 门槛;阈值; 〈喻〉开始
+precipitation n.降水; 匆促,仓促; 沉淀,析出
+drainage n. 排水；排水系统；污水；排水面积
+End
